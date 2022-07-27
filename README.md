@@ -7,6 +7,10 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 🎓 &nbsp;Pursuing B.Tech in Data Science and Artificial Intelligence Engineering from IIIT Dharwad, Karnataka .\
+💎 My Experiences: 
+  - Event Team Lead @return_0 (Coding Club, IIIT Dharwad) 
+  - Organisation and Management Team Lead @E-Cell (IIIT DHarwad)
+  - SDE Intern @Hylobiz
 🌱 &nbsp;I have a keen interest in technologies. I am a jack in Machine Learning, Web Scraping, Data Science, Web Development, Competitive  Programming and Blockchain .
 Looking forward to master thesse topics!\
 ✉️ &nbsp;Wanna recruit me? Have a cool project idea? Just shoot an email to siddharthrbhandari2002@gmail.com .\
