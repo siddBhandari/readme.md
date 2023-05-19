@@ -8,9 +8,9 @@
 
 🎓 &nbsp;Pursuing B.Tech in Data Science and Artificial Intelligence Engineering from IIIT Dharwad, Karnataka .\
 💎 My Experiences: 
-  - Event Team Lead @return_0 (Coding Club, IIIT Dharwad) 
-  - Organisation and Management Team Lead @E-Cell (IIIT DHarwad)
-  - SDE Intern @Hylobiz
+  - Upcoming Mitacs GRI @ St. Mary's University, Canada
+  - Intern - Software Development @ boost.money
+  - Machine Learning Research Intern @ IIT, Bomabay
 
 🌱 &nbsp;I have a keen interest in technologies. I am a jack in Machine Learning, Web Scraping, Data Science, Web Development, Competitive  Programming and Blockchain .
 Looking forward to master thesse topics!\
