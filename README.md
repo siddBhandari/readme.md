@@ -8,12 +8,12 @@
 
 🎓 &nbsp;Pursuing B.Tech in Data Science and Artificial Intelligence Engineering from IIIT Dharwad, Karnataka .\
 💎 My Experiences: 
-  - Upcoming Mitacs GRI @ St. Mary's University, Canada
+  - Mitacs Globalink Research Intern @ St. Mary's University, Halifax, Canada
   - Intern - Software Development @ boost.money
   - Machine Learning Research Intern @ IIT, Bomabay
 
 🌱 &nbsp;I have a keen interest in technologies. I am a jack in Machine Learning, Web Scraping, Data Science, Web Development, Competitive  Programming and Blockchain .
-Looking forward to master thesse topics!\
+Looking forward to master these topics!\
 ✉️ &nbsp;Wanna recruit me? Have a cool project idea? Just shoot an email to siddharthrbhandari2002@gmail.com .\
 
 
